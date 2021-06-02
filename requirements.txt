@@ -60,7 +60,7 @@ scipy==0.13.0b1
 selenium==3.141.0
 singledispatch==3.4.0.3
 six==1.4.1
-urllib3==1.25.6
+urllib3==1.26.5
 wrapt==1.11.2
 xattr==0.6.4
 altgraph==0.10.2
@@ -127,7 +127,7 @@ selenium==3.141.0
 singledispatch==3.4.0.3
 six==1.4.1
 typing==3.7.4.1
-urllib3==1.25.6
+urllib3==1.26.5
 wrapt==1.11.2
 xattr==0.6.4
 altgraph==0.10.2
@@ -194,6 +194,6 @@ selenium==3.141.0
 singledispatch==3.4.0.3
 six==1.4.1
 typing==3.7.4.1
-urllib3==1.25.6
+urllib3==1.26.5
 wrapt==1.11.2
 xattr==0.6.4
